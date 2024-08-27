@@ -4,7 +4,6 @@
 **w25536/w25536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-https://arxiv.org/pdf/2402.19108
 
 Here are some ideas to get you started:
 
@@ -17,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://arxiv.org/pdf/2402.19108
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/w25536?theme=light)
