@@ -1,7 +1,4 @@
 
-
-- [Papers](#papers)
-
 ## 'Leetcode' Solved Rank
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/w25536?theme=light)
