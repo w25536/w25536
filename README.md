@@ -1,4 +1,4 @@
-![|400](나옹.gif)
+![|200](나옹.gif)
 
 ## 'Leetcode' Solved Rank
 
