@@ -1,6 +1,8 @@
 
 ## 'Leetcode' Solved Rank
 
+![](poketball.gif)
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/w25536?theme=light)
 
 ##  PyTorch Implementations From Scratch
