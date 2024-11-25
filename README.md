@@ -1,4 +1,5 @@
-![|width=500](pokemon-background.jpeg)
+![500](pokemon-background-2.gif)
+
 
 ## 'Leetcode' Solved Rank
 
