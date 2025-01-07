@@ -1,7 +1,6 @@
 ![500](pokemon-background-2.gif)
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/w25536?theme=light)
 
 ##  PyTorch Implementations From Scratch
 
